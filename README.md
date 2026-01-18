@@ -33,10 +33,3 @@
 ![SVN](https://img.shields.io/badge/-SVN-809CC9?style=flat-square&logo=subversion&logoColor=white)
 ![API](https://img.shields.io/badge/-API-FFCA28?style=flat-square&logo=rest-api&logoColor=black)
 
-## Project
-
-### 1. [next-my-hobby-helper](https://github.com/machuuo/next-my-hobby-helper)
-- Todo List 취미 관리 웹 애플리케이션입니다.
-- **Tech**: Next.js, React, TypeScript
-- **Details**: 취미 활동을 기록하고 관리하는 기능 구현.
-- 배포: 미배포, 배포 예정 없음
